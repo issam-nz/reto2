@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CarRentalManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CarRentalManagementSystem/dist/CarRentalManagementSystem.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Program Files/Java/fontawesomefx-8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
